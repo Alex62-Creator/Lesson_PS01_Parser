@@ -10,7 +10,7 @@ body {
 
 /* Заголовок */
 header {
-    background-color: #4CAF50;
+    background-color: #18e9e4;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -63,7 +63,7 @@ section {
 }
 
 section h2 {
-    color: #4CAF50;
+    color: #18e9e4;
     border-bottom: 2px solid #ddd;
     padding-bottom: 5px;
 }
